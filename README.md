@@ -1,8 +1,9 @@
 # Card Matching Game
-A simple, lightweight, and dependency-free image slider built with pure JavaScript, HTML, and CSS.
+A simple, fun, and interactive card matching game built with pure JavaScript, HTML, and CSS.
 
+## Live Demo
 
-View the Live Demo [here](https://pharadolbrown.github.io/CardMatchingGame/)
+Play the game [here](https://example.com/demo).
 
 
 ![Project Screenshot](https://img5.pic.in.th/file/secure-sv1/CardMatchingGame.png)
