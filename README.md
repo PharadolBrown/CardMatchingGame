@@ -5,7 +5,7 @@ A simple, lightweight, and dependency-free image slider built with pure JavaScri
 View the Live Demo [here](https://pharadolbrown.github.io/CardMatchingGame/)
 
 
-![Project Screenshot](https://pharadolbrown.github.io/CardMatchingGame/)
+![Project Screenshot](https://img5.pic.in.th/file/secure-sv1/CardMatchingGame.png)
 
 ### 1. Clone the repository
     git clone https://github.com/PharadolBrown/CardMatchingGame
